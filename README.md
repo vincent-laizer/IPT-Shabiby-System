@@ -32,7 +32,7 @@
 - [ ] App Additional Settings
 
 ## Contributors
-+ vincent-laizer
++ [vincent-laizer](https://github.com/vincent-laizer)
 + Wishing you were next
 
-### Am waiting for your improvements :) vincent-laizer
+### Am waiting for your improvements :) [vincent-laizer](https://github.com/vincent-laizer)
