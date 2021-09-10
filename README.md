@@ -22,17 +22,31 @@
 
 
 ## Features
-- [x] Admin Login
-- [x] Route Selection with automatic fare
-- [x] New Route Creation
-- [x] List all Routes
-- [ ] Recording all Booked Tickets
-- [ ] Booking a Ticket
-- [ ] Storing user details
-- [ ] App Additional Settings
+:green_circle: Admin Login
+
+
+:green_circle: Route Selection with automatic fare
+
+
+:green_circle: New Route Creation
+
+
+:green_circle: List all Routes
+
+
+:white_circle: Recording all Booked Tickets
+
+
+:white_circle: Booking a Ticket
+
+
+:white_circle: Storing user details
+
+
+:white_circle: App Additional Settings
 
 ## Contributors
 + [vincent-laizer](https://github.com/vincent-laizer)
 + Wishing you were next
 
-### Am waiting for your improvements :) [vincent-laizer](https://github.com/vincent-laizer)
+### Am waiting for your improvements :slightly_smiling_face: [vincent-laizer](https://github.com/vincent-laizer)
