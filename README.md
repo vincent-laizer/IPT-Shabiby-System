@@ -52,9 +52,9 @@
 + [Regina]() 
 + [alex00359]()
 + [fredy_dxm]()
++ [Said]()
 + [kelvin]()
-+ [said]()
-+ [Added_More]()
++ [Nestory]()
 + Wishing you were next
 
 ### Am waiting for your improvements :slightly_smiling_face: [vincent-laizer](https://github.com/vincent-laizer)
