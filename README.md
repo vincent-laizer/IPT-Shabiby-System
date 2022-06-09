@@ -1,4 +1,4 @@
-# IPT-Shabiby-System
+## IPT-Shabiby-System
 
 ### Univeristy of Dodoma IPT 2021 Project. Implemented in Java
 #### A Bus Ticket Booking System developed as an assignment in IPT Project
